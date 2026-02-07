@@ -1,0 +1,25 @@
+.DS_Store
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Databases / local files
+*.db
+*.sqlite
+*.sqlite3
+error.txt
+*.log
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.vite/
+coverage/
+.env
+.env.*
